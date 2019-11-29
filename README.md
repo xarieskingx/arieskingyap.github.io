@@ -1,2 +1,2 @@
-# arieskingyap.github.io
+# http://arieskingyap.github.io
 My personal website
